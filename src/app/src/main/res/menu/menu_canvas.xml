@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionSalvar"
+        android:title="@string/itemSalvar" />
+    <item
+        android:id="@+id/actionCompartilhar"
+        android:title="@string/itemCompartilhar" />
+    <item
+        android:id="@+id/actionLimpar"
+        android:title="@string/itemLimpar" />
+</menu>
